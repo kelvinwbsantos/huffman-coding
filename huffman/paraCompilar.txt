@@ -1,0 +1,3 @@
+Para compilar, use:
+
+gcc -o huffman main.c arvoreHuffman.c codificacao.c bytes.c fila.c
